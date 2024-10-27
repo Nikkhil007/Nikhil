@@ -1,1 +1,1 @@
-echo "Hi my name is Nikhil and i a'm in TCS currently"
+echo "Hi my name is Nikhil and i a'm in HCL currently"
